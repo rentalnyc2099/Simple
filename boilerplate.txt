@@ -1,1 +1,1 @@
-This is the global boilerplate content for all clients.
+This is the updated global boilerplate content for all clients.
